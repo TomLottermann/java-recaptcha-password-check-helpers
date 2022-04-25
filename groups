@@ -1,3 +1,5 @@
 # UUID                               	Group Name
 #
 mdb:recaptcha-account-protections-eng	mdb/recaptcha-account-protections-eng
+mdb:copybara-git-readers		mdb/copybara-git-readers
+mdb:copybara-git-writers		mdb/copybara-git-writers
